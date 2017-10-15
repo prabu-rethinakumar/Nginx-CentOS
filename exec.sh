@@ -18,4 +18,4 @@ systemctl enable nginx
 
 echo 'verifying if Nginx is up and running'
 
-curl 'http://172.24.101.82'
+curl 'http://172.24.xx.xx'
